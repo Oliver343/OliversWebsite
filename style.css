@@ -82,7 +82,7 @@ html {
 }
 
 .box2 {
-  height: 400px;
+  height: 600px;
   text-align: center;
   /* border: 2px solid blue; */
 }
@@ -96,7 +96,7 @@ html {
 }
 
 .box3 {
-  height: 300px;
+  height: 400px;
   text-align: center;
   border-radius: 40px;
   background-color: #202020;
@@ -165,7 +165,7 @@ a:active {
 }
 
 .box4 {
-  height: 200px;
+  height: 250px;
   text-align: left;
   /* border: 2px solid green; */
 }
