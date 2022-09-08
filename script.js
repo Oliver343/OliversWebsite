@@ -65,3 +65,11 @@ btnEnglish.addEventListener("click", languageGB);
 btnLinkedIn.addEventListener("click", linkedInShow);
 btnGitHub.addEventListener("click", gitHubShow);
 btnUdemy.addEventListener("click", udemyInShow);
+
+//GSAP
+
+gsap.to(".box1-image", { duration: 0, x: 500, ease: "back" });
+gsap.to(".box1-image", { duration: 3, rotate: -360, x: 0, ease: "back" });
+gsap.to(".header-bar", { duration: 1, y: 0, ease: "bounce" });
+gsap.to(".header-bar", { duration: 0, y: -100, ease: "bounce" });
+
