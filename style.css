@@ -57,7 +57,6 @@ html {
 }
 
 .box1 {
-  height: 400px;
   text-align: left;
   font-size: large;
   /* border: 2px solid red; */
@@ -82,7 +81,6 @@ html {
 }
 
 .box2 {
-  height: 700px;
   text-align: center;
   /* border: 2px solid blue; */
 }
@@ -165,7 +163,6 @@ a:active {
 }
 
 .box4 {
-  height: 250px;
   text-align: left;
   /* border: 2px solid green; */
 }
